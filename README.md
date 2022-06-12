@@ -36,3 +36,4 @@ fim
 
 # FLUXOGRAMA
 
+![Fluxograma Media de Alunos](https://github.com/rperassi/Media-dos-alunos/blob/b46a0fab7870d4578e6a0137762fedb644caea80/Fluxograma%20Media.png)
